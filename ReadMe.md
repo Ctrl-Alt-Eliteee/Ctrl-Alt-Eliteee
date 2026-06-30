@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔹 Exploring Edge AI, Machine Learning, and Embedded Systems
+🔹 Exploring Edge AI, Machine Learning, and Embedded Systems.
 
-🔹 Learning Python, NumPy, Pandas, and Scikit-Learn
+🔹 Learning Python, NumPy, Pandas, and Scikit-Learn.
 
-🔹 Interested in TinyML, IoT, and Industrial AI Applications
+🔹 Interested in TinyML, IoT, and Industrial AI Applications.
 
 
 ## 🌐 Socials:
